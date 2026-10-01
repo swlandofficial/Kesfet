@@ -1,6 +1,6 @@
 # Sağlık Alanında Yükselen Uygulamalar — Instagram Reklam Analizi (ABD + Brezilya)
 
-**Tarih:** 1 Ekim 2026 · **Kaynak:** Meta Reklam Kütüphanesi (Instagram + Facebook), Apify `apify/facebook-ads-scraper` ile çekildi · **Harcama:** ≈ $2,93 / $5
+**Tarih:** 1 Ekim 2026 · **Kaynak:** Meta Reklam Kütüphanesi (Instagram + Facebook), Apify `apify/facebook-ads-scraper` ile çekildi · **Harcama:** ≈ $3,22 / $5
 **Ham veri:** `ham_reklam_verisi.csv` (538 reklam)
 
 ## Yöntem
